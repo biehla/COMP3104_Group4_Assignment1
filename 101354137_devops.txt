@@ -1,2 +1,3 @@
 COMP 3104 - DevOps Course
 Introduction to DevOps practices and principles.
+Covers CI/CD, Infrastructure as Code, and more.
