@@ -3,3 +3,4 @@ DevOps bridges the gap between development and operations.
 It ensures faster delivery and better software quality.
 
 - Collaboration: DevOps fosters better communication between development and operations teams.
+- Automation: Continuous Integration and Continuous Deployment (CI/CD) automate the software release process.
