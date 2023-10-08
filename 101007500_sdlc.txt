@@ -1,0 +1,1 @@
+SDLC is an acronym that stands for Software Development Life Cycle.
