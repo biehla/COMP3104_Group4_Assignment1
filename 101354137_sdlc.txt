@@ -2,8 +2,3 @@ Importance of DevOps in the Software Development Life Cycle
 DevOps bridges the gap between development and operations.
 It ensures faster delivery and better software quality.
 
-- Collaboration: DevOps fosters better communication between development and operations teams.
-- Automation: Continuous Integration and Continuous Deployment (CI/CD) automate the software release process.
-- Infrastructure as Code: IaC allows infrastructure to be provisioned and managed using code and software development techniques.
-
-Incorporating DevOps into the SDLC can transform the software development process, making it more agile, efficient, and responsive to user needs.
