@@ -5,6 +5,9 @@ Group Members
 2-)Anand Biehl - 101007500
 3-)Peter Verzhanskyi - 101381171
 
+
 Overview
-Individual branches: 101354137-Oguzhan.
+Individual branches: 101381171-Peter.
 CI setup in .github/workflows.
+
+
