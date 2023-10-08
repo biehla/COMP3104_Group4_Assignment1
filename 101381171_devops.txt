@@ -1,0 +1,3 @@
+COMP3104 - DevOps Course
+Introduction int DevOps fundamentals and principles
+Covers a wide range of topics on CI/CD, Infrastructure as Code and more.
