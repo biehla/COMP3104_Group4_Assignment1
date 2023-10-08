@@ -1,3 +1,5 @@
 George Brown is a Canadian college located in Toronto, ON.
 It offers a plethora od fifferent programms in different fields of study,
 that are spread across multiple campuses
+
+T177 Computer programming and analysis program is taught at Casa Loma campus
