@@ -1,0 +1,6 @@
+COMP3104 - DevOps Course
+Introduction int DevOps fundamentals and principles
+Covers a wide range of topics on CI/CD, Infrastructure as Code and more.
+Provide us with firsthand experience on real word Developer Operations
+This course provide more of a hands down approach, that is closer to real word representation
+of daily operations as a Software Developer
